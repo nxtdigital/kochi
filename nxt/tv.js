@@ -1,4 +1,4 @@
-/* global Alpine */
+/* NxtDigital_Kochi */
 const streams = {
     "BabyStar_sd": 'https://cdnus.ylivestream.com/babystar_sd/video.m3u8',
     "KCN_sd": 'https://cdnus.ylivestream.com/kcn_sd/video.m3u8',
@@ -7,7 +7,7 @@ const streams = {
     "Rajnews_sd": 'https://cdnus.ylivestream.com/rajnews_sd/video.m3u8',
     "Rajmusix_sd": 'https://cdnus.ylivestream.com/rajmusix_sd/video.m3u8',
     "C27_sd": 'https://cdnus.ylivestream.com/c27_sd/video.m3u8',
-    "TV2 MidtVest": 'https://cdnus.ylivestream.com/elnmuzikz_sd/video.m3u8',
+    "Elnmuzikz_sd": 'https://cdnus.ylivestream.com/elnmuzikz_sd/video.m3u8',
     
 }
 const getIndex = name => playing.findIndex(s => s.name === name)
